@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+.menu-items{
+    display: inline;
+    justify-content: right;
+    display: flex;
+    align-items: right;
+    padding: 5px;
+    font-size: large;
+    color: black;
+    background-color: rgb(236, 219, 197);
+    background-size: cover;
+    height: 130px;
+ }
+ .logo-main{
+    margin-left: 40px;
+    margin-right: 14px;
+    height: 120px;
+    width: 100px;
+ }
+ .main-page-heading{
+    text-align: left;
+    margin-right: 390px;
+    color: blue;
+    font-style: Roboto;
+    
+    
+ }
+ .cars-menu{
+    color: rgb(224, 130, 150);
+    margin-right: 50px;
+    font-size: x-large;
+    font-family: Bree Serif;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 20px;
+ }
+ .benz-heading{
+    text-align: center;
+    font-family: Bree Serifs;
+ }
+.benz-image1{
+    height: 42vh;
+    width: 40vw;
+    margin-left: 15px;
+}
+.benz-image2{
+    height: 42vh;
+    width: 40vw;
+    margin-left: 15px;
+}
+.benz-image3{
+    height: 42vh;
+    width: 40vw;
+    margin-left: 15px;
+}
+.benz-para{
+    text-align: center;
+    font-weight: bold;
+    font-family: Bree Serif;
+    font-size: larger;
+    background-image: linear-gradient(rgb(240, 201, 183), rgb(205, 198, 243));
+}
+.button{
+    margin-left: 610px;
+}
+.range-image1{
+    height: 42vh;
+    width: 40vw;
+    margin-left: 15px;
+}
+.range-image2{
+    height: 42vh;
+    width: 36vw;
+    margin-left: 15px;
+}
+.range-image3{
+    height: 42vh;
+    width: 30vw;
+    margin-left: 15px;
+}
+.range-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.range-para{
+    text-align: center;
+    font-weight: bold;
+    font-family: Bree Serif;
+    font-size: larger;
+    background-image: linear-gradient(rgb(218, 233, 240), rgb(230, 213, 233));
+}
+.audi-image1{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.audi-image2{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.audi-image3{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.audi-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.audi-para{
+    text-align: center;
+    font-weight: bold;
+    font-family: Bree Serif;
+    font-size: larger;
+    background-image: linear-gradient(rgb(211, 236, 204), rgb(230, 195, 195));
+}
+.bmw-image1{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.bmw-image2{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.bmw-image3{
+    height: 42vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.bmw-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.bmw-para{
+    text-align: center;
+    font-weight: bold;
+    font-family: Bree Serif;
+    font-size: larger;
+    background-image: linear-gradient(rgb(234, 238, 187), rgb(200, 234, 245));
+}
+.tata-image1{
+    height: 51vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.tata-image2{
+    height: 51vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.tata-image3{
+    height: 51vh;
+    width: 31vw;
+    margin-left: 15px;
+}
+.tata-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.tata-para{
+    text-align: center;
+    font-weight: bold;
+    font-family: Bree Serif;
+    font-size: larger;
+    background-image: linear-gradient(rgb(206, 204, 236), rgb(189, 186, 186));
+}
+.top-cantainer{
+    width: 100vw;
+}
+.contact-container{
+    text-align: center;
+    font-size: x-large;
+    font-family: Bree Serif;
+    background-image: linear-gradient(rgb(213, 233, 232), rgb(240, 215, 182), rgb(232, 202, 236));
+    width: 100vw;
+    height: 100vh;
+ }
+ 
+ .icons{
+    padding: 20px;
+ }
+ .face-icon{
+    margin-right: 20px;
+    height: 40px;
+    width: 40px;
+ }
+ .insta-icon{
+    margin-right: 20px;
+    height: 40px;
+    width: 40px;
+ }
+ .twitter-icon{
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+ }
+ .whatsapp-icon{
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+ }
+ .button-btm{
+    margin-left: 50px;
+ }
